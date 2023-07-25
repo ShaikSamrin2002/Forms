@@ -1,0 +1,16 @@
+.box1{
+    height: 100px;
+    width: 200px;
+    background-color: red;
+    margin-bottom: 3px;
+    padding: 5px ;
+}
+.box2{
+    height: 100px;
+    width: 200px;
+    background-color: blue;
+}
+
+/* margin is extrnal space */
+/* internal space */
+ 

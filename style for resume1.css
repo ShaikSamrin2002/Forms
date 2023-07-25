@@ -1,0 +1,49 @@
+/* margin,padding,height,width */
+html,body{
+    height: 100%;
+    width: 100%;
+  }
+  
+  *{
+     margin: 0;
+     padding: 0;
+  }
+.header{
+    background-color: lightblue;
+    margin-top: 3px;
+    text-align: center;
+}
+#education_de{
+    background-color: lightgrey;
+    margin-top: 3px;
+    height: 100px;
+}
+#experience_details{
+    height: 100px;
+}
+/* text align */
+/* display: flex */
+/* justify content : place your elements anywhere horizontally */
+/* align-items: place the elements vertically */
+.container{
+    display: flex;
+    flex-direction: column;
+    height: 100px;
+    justify-content: center;  /*applied for vertical line*/
+    align-items: center;  /* applied for horizontal line*/
+}
+.transmit{
+    display : flex;
+    height:100px
+}
+.child1{
+    height: 100px;
+    width: 20%;
+    background-color: lightgreen;
+}
+.child2{
+    height: 100px;
+    width: 80%;
+    display: flex;
+    background-color: azure;
+}
