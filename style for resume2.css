@@ -1,0 +1,78 @@
+
+.hobbies{
+    display : flex;
+    height:150px
+}
+.child1{
+    height: 150px;
+    width: 20%;
+    background-color: rgb(227, 197, 218);
+    align-items: center;
+}
+.child2{
+    height: 150px;
+    width: 80%;
+    display: flex;
+    background-color: azure;
+    margin-bottom: 5px;
+}
+
+
+#certificates{
+    display : flex;
+    height:160px;
+    text-align: start;
+}
+.c1{
+    height: 160px;
+    width: 20%;
+    background-color: rgb(150, 206, 175);
+    align-items: center;
+    margin-top: 10px;
+}
+.child2{
+    height: 160px;
+    width: 80%;
+    display: flex;
+    background-color: lightcoral;
+    
+}
+
+#lang{
+    display : flex;
+    height:150px
+}
+.ch1{
+    height: 150px;
+    width: 20%;
+    background-color: lightgreen;
+    align-items: center;
+    margin-top: 5px;
+}
+.child2{
+    height: 150px;
+    width: 80%;
+    display: flex;
+    background-color:lightseagreen;
+    margin-bottom: 5px;
+}
+
+#education_de{
+    display : flex;
+    height:200px
+}
+.ch2{
+    height: 150px;
+    width: 20%;
+    background-color: lightgreen;
+    align-items: center;
+    margin-top: 5px;
+}
+.child2{
+    height: 150px;
+    width: 80%;
+    display: flex;
+    background-color:lightseagreen;
+    margin-bottom: 5px;
+}
+
